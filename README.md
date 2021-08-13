@@ -1,3 +1,3 @@
 # android_weather
-https://img.shields.io/badge/dynamic/json?url=<URL>&label=<LABEL>&query=<$.DATA.SUBDATA>&color=<COLOR>&prefix=<PREFIX>&suffix=<SUFFIX>
+![asdasd](https://user-images.githubusercontent.com/48806275/129286601-014e4e16-19ab-4401-a36e-f238a3afc617.png)
 weather
