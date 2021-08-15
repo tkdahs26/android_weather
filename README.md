@@ -1,6 +1,6 @@
 # android_weather
 ![asdasd](https://user-images.githubusercontent.com/48806275/129286601-014e4e16-19ab-4401-a36e-f238a3afc617.png)
-weather 포트폴리오작성중
+weather 포트폴리오작성중 첫번째로만든것
 
 <img src="https://user-images.githubusercontent.com/48806275/129467785-a2b1107f-dae6-40ed-bc15-25728f56e914.png " width="20%" height="20%"/>첫화면
 
