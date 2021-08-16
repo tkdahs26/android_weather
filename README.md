@@ -1,8 +1,8 @@
 # android_weather
 ![asdasd](https://user-images.githubusercontent.com/48806275/129286601-014e4e16-19ab-4401-a36e-f238a3afc617.png)
-weather 포트폴리오작성중 첫번째로만든것
+weather 포트폴리오작성중 첫번째로만든것 첫번쨰로만든것이라 쉬운내용
 
-<img src="https://user-images.githubusercontent.com/48806275/129467785-a2b1107f-dae6-40ed-bc15-25728f56e914.png " width="20%" height="20%"/>첫화면
+<img src="https://user-images.githubusercontent.com/48806275/129467785-a2b1107f-dae6-40ed-bc15-25728f56e914.png " width="20%" height="20%"/>첫화면 날씨 기상특보 미세먼지 초미세먼지
 
 <img src="https://user-images.githubusercontent.com/48806275/129467786-86a9deda-37f5-4fc5-b3fd-5383469b7413.png " width="20%" height="20%"/>날씨클릭
 
