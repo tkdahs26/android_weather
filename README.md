@@ -8,7 +8,7 @@ weather 포트폴리오작성중 첫번째로만든것
 
 <img src="https://user-images.githubusercontent.com/48806275/129467780-408e8a8c-5368-4725-9ec2-5624f4e4a5cf.png " width="20%" height="20%"/>아이콘클릭
 
-<img src="https://user-images.githubusercontent.com/48806275/129467781-315f9462-4bb9-46e5-a24a-c24a8d102d0f.png " width="20%" height="20%"/>기상특보버튼클릭
+<img src="https://user-images.githubusercontent.com/48806275/129467781-315f9462-4bb9-46e5-a24a-c24a8d102d0f.png " width="20%" height="20%"/>기상특보버튼클릭 지역별 특보개수출력
 
 <img src="https://user-images.githubusercontent.com/48806275/129467782-0c3d7b72-c84d-47f0-b13d-e0bf7594a680.png " width="20%" height="20%"/>숫자1버튼클릭 1 특보 개수
 
