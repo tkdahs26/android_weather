@@ -11,5 +11,5 @@ weather앱 포트폴리오작성중 첫번째로만든것이라 비교적 쉬운
 
 <img src="https://user-images.githubusercontent.com/48806275/129467913-06f6297c-a803-4502-94af-6d0bec0a8c1d.png " width="20%" height="20%"/>미세먼지버튼클릭: 지역별 파란색 0-30 초록색30-80 주황 80-150 빨강 151-
 
-<img src="https://user-images.githubusercontent.com/48806275/129467915-bf635a97-f772-4317-8032-8baffb660773.png " width="20%" height="20%"/>초미세먼지버튼클릭 
+<img src="https://user-images.githubusercontent.com/48806275/129467915-bf635a97-f772-4317-8032-8baffb660773.png " width="20%" height="20%"/>초미세먼지버튼클릭: 초미세먼지 정보출력
 
