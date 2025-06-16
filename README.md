@@ -1,7 +1,7 @@
 # android_weather
 ![asdasd](https://user-images.githubusercontent.com/48806275/129286601-014e4e16-19ab-4401-a36e-f238a3afc617.png)
 첫번째 어플만들기 날씨앱  
-기상청api를 활용해 일기예보를 보는 앱입니다
+기상청api를 활용해 날씨,미세먼지를 보는 앱입니다
 
 <img src="https://user-images.githubusercontent.com/48806275/129467785-a2b1107f-dae6-40ed-bc15-25728f56e914.png " width="20%" height="20%"/>첫화면: 날씨 기상특보 미세먼지 초미세먼지
 
